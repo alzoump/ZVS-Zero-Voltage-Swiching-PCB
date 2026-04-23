@@ -15,3 +15,19 @@ The circuit consists of:
 
 this will output in perfect confitions 3Mhz
 
+
+you can also : 
+
+10nF   500khz    ~10μh
+22nf   300 khz   ~13μh
+47nf   200khz    ~ 13μh
+
+in our case (250pf total) :
+
+500 kHz   ~405 μh
+1 MHz     ~101 μh
+2 MHz     ~25 μh
+3 MHz     ~11 μh 
+5 MHz     ~4 μh
+
+
