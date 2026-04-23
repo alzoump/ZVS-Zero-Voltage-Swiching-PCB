@@ -1,5 +1,5 @@
-in case you dont have the IRF460 you can also use:
--IRFP260N
+in case you dont have the IRF260 you can also use:
+-IRF240
 -IRFB3206PBF
 -IRF2807
 -IRFP260NPBF
@@ -15,8 +15,4 @@ in case you dont have the IRF460 you can also use:
 -IRFP4668
 -AUIRFP4668 / AUIRFP4227
 
-I used the IRF460 because it didn’t require a heatsink and showed no signs of overheating in my setup. However, in general, the IRFP260N is a better choice for ZVS applications.
-The main reason is that the IRF460 is designed for high-voltage operation (up to 500 V) but has relatively limited current capability (~20 A) and higher Rds(on), which leads to 
-more heat at higher currents. ZVS drivers are typically low-voltage, high-current circuits, so current handling and low conduction losses are more important than high voltage rating.
-The IRFP260N, although rated for a lower voltage (200 V), can handle much higher current (around 46–50 A) and has significantly lower Rds(on), making it more efficient and better suited for typical ZVS designs—provided a proper heatsink is used.
-In my case, the circuit operates at around 12 V and ~10 A, so the IRF460 is not heavily stressed and performs adequately without additional cooling.
+
