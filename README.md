@@ -70,12 +70,7 @@ If the **IRF260N** is unavailable, the following drop-in alternatives are compat
 | ST Micro | STW40N20, STW38NB20 |
 | Motorola | MTW32N20E |
 
----
 
-## 📁 Repository Contents
--AUIRFP4668 / AUIRFP4227
-
----
 
 ## ⚠️ Safety Notice
 
