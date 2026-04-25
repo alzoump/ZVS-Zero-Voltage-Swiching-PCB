@@ -30,7 +30,7 @@ Especially effective in **high-frequency power converters**.
 | Fast Diodes | UF600J | 2× |
 | Capacitors | 1 nF polyester | 4× |
 | Inductor | 10 µH (or short) | 1× |
-
+i recommend skipping the schottky
 ---
 
 ## 📊 Frequency vs. Capacitance Reference
