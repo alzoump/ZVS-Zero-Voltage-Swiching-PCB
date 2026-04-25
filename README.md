@@ -26,7 +26,7 @@ Especially effective in **high-frequency power converters**.
 | Resistors | 100 Ω, 5 W | 2× |
 | Resistors | 4.7 kΩ | 2× |
 | Zener Diodes | 12 V | 2× |
-| Schottky Diodes | 1N5818 or 1N5819 | 2× |
+|(optional) Schottky Diodes | 1N5818 or 1N5819 | 2× |
 | Fast Diodes | UF600J | 2× |
 | Capacitors | 1 nF polyester | 4× |
 | Inductor | 10 µH (or short) | 1× |
